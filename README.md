@@ -28,3 +28,23 @@ Created an interactive report with a switchable parameter for easy toggling betw
 
 # 📝 Survey 
 #### Dedicated a section to survey-related factors like relationship satisfaction, work-life balance, job satisfaction, etc. Understanding these factors are crucial for predicting and managing attrition.
+
+
+![image](https://media.licdn.com/dms/image/D5622AQHsiKgpyM29ZQ/feedshare-shrink_2048_1536/0/1700213876970?e=1722470400&v=beta&t=boNchMKF8rERK2oAdOPKcj_oY18A0z77D-zLBzPMrz8)
+- Understanding the impact of the workplace environment on employee attrition .
+- Examine how employee relations in the workplace influence job attrition or retention.
+- Investigate how satisfied the employees who left were with their jobs.
+- Highlighting the importance of work-life balance in employee retention.
+- Exploring the level of job involvement among employees who left.
+
+# 🚻DEMOGRAPHICS
+
+#### Provide demographic information about employees, including age, marital status, gender, education, and income. Demographic data can provide valuable context for understanding attrition patterns.
+
+![image](https://media.licdn.com/dms/image/D5622AQHsiKgpyM29ZQ/feedshare-shrink_2048_1536/0/1700213876970?e=1722470400&v=beta&t=boNchMKF8rERK2oAdOPKcj_oY18A0z77D-zLBzPMrz8)
+
+- Understand gender distribution in attrition
+- Analyzed how marital status impacts attraction.
+- Delved into the age demographics to identify the age groups dominating Attrition.
+- Understand How does Education affect attrition
+- Understand How does monthly income affect attrition
