@@ -25,3 +25,6 @@ Created an interactive report with a switchable parameter for easy toggling betw
 - Role of business travel in attrition.
 - Visualize the impact of distance on attrition
 - Examined how performance ratings relate to attrition.
+
+# 📝 Survey 
+#### Dedicated a section to survey-related factors like relationship satisfaction, work-life balance, job satisfaction, etc. Understanding these factors are crucial for predicting and managing attrition.
