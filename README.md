@@ -14,7 +14,7 @@ Created an interactive report with a switchable parameter for easy toggling betw
 
   #### Explored employee-related factors like department, job role, distance from home, over time, and business travel, shedding light on overall attrition and retention patterns.
   ‎
-  ![image](https://media.licdn.com/dms/image/D5622AQFfVmA1Bzhq9g/feedshare-shrink_2048_1536/0/1700213877180?e=1722470400&v=beta&t=R0JnfsXKNFe88Cbu7E0UgrRjuLLseDZYwDg9vvlbb8o)
+  ![image](https://media.licdn.com/dms/image/v2/D5622AQFfVmA1Bzhq9g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1700213877180?e=1725494400&v=beta&t=48-QXp0KzQjlo_UtuOSxHG6IEmD0jNjkGQWRkdyQ4co)
 
 
 
@@ -30,7 +30,7 @@ Created an interactive report with a switchable parameter for easy toggling betw
 #### Dedicated a section to survey-related factors like relationship satisfaction, work-life balance, job satisfaction, etc. Understanding these factors are crucial for predicting and managing attrition.
 
 
-![image](https://media.licdn.com/dms/image/D5622AQHsiKgpyM29ZQ/feedshare-shrink_2048_1536/0/1700213876970?e=1722470400&v=beta&t=boNchMKF8rERK2oAdOPKcj_oY18A0z77D-zLBzPMrz8)
+![image](https://media.licdn.com/dms/image/D5622AQHsiKgpyM29ZQ/feedshare-shrink_2048_1536/0/1700213876970?e=1725494400&v=beta&t=LDgl3rhz_wmr4IcT-3CWCroKbkb_VBgj23P_yhcOcCM)
 - Understanding the impact of the workplace environment on employee attrition .
 - Examine how employee relations in the workplace influence job attrition or retention.
 - Investigate how satisfied the employees who left were with their jobs.
@@ -41,7 +41,7 @@ Created an interactive report with a switchable parameter for easy toggling betw
 
 #### Provide demographic information about employees, including age, marital status, gender, education, and income. Demographic data can provide valuable context for understanding attrition patterns.
 
-![image](https://media.licdn.com/dms/image/D5622AQHsiKgpyM29ZQ/feedshare-shrink_2048_1536/0/1700213876970?e=1722470400&v=beta&t=boNchMKF8rERK2oAdOPKcj_oY18A0z77D-zLBzPMrz8)
+![image](https://media.licdn.com/dms/image/D5622AQELuQhH7jf5nQ/feedshare-shrink_2048_1536/0/1700213876304?e=1725494400&v=beta&t=ScWDdwVBiC1B-IPI4HIf8uE-hxXRg-ZZFeuVX9KoBuA)
 
 - Understand gender distribution in attrition
 - Analyzed how marital status impacts attraction.
